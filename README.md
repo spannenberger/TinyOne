@@ -1,2 +1,2 @@
 # TinyOne
- front
+ Adaptive layou with bootstrap 
