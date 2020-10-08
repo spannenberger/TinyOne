@@ -98,10 +98,10 @@ h2 {
     transition: all 0.3s ease;
 }
 
-.icons__item a:hover {
-    text-decoration: none;
-    color: #ff4800;
-}
+    .icons__item a:hover {
+        text-decoration: none;
+        color: #8e7e14;
+    }
 
 .ipad {
     display: block;
